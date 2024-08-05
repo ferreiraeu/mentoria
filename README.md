@@ -18,15 +18,6 @@ Ao longo da minha jornada, venho explorando diversas tecnologias e ferramentas, 
 - **Controle de Versão**: Git, GitHub
 - **Ferramentas de Desenvolvimento**: VS Code
 
-## Cursos e Certificações
-
-Para estruturar meu aprendizado, participei de vários cursos online e obtive certificações em áreas específicas. Alguns dos cursos que concluí são:
-
-- **Python for Everybody** - Coursera
-- **The Web Developer Bootcamp** - Udemy
-- **JavaScript Algorithms and Data Structures** - freeCodeCamp
-- **Introduction to Databases** - edX
-
 ## Objetivos Futuros
 
 Estou constantemente procurando expandir meus conhecimentos e habilidades. Meus próximos objetivos incluem:
